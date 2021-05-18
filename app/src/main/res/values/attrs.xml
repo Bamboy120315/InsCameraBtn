@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CameraBtn">
+        <!-- 线的粗细 默认值 auto -->
+        <attr name="cb_lineWidth" format="dimension" />
+    </declare-styleable>
+
+</resources>
